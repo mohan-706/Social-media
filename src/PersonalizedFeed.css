@@ -1,0 +1,43 @@
+.personalized-feed-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .personalized-feed-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .personalized-feed-post {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .personalized-feed-post .user-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .personalized-feed-post .user-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .personalized-feed-post .username {
+    font-weight: bold;
+  }
+  
+  .personalized-feed-post .post-image {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .personalized-feed-post .post-caption {
+    font-size: 14px;
+  }
+  
