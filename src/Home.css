@@ -94,4 +94,12 @@
   .upload-cancel-button{
     margin-left: 20px;
   }
+  .your-feed-button{
+    text-decoration: none;
+    color: #fff;
+  }
+  .user-name{
+    text-decoration: none;
+    color: #fff;
+  }
   
